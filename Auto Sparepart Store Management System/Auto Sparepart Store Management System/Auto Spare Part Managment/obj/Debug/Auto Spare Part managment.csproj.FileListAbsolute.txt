@@ -1,0 +1,87 @@
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe.config
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.pdb
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.AssemblyReference.cache
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.SuggestedBindingRedirects.cache
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddItem.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddOrder.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddSupplier.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddVehicle.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.ChangePass.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.changeUserName.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddCustomer.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.CustOrder.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EditCust.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AdminLogin.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Manage.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Menu.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Register.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Report.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Sales.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.View.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EmployeeMenu.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Start.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Properties.Resources.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.UpDe.resources
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.GenerateResource.cache
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.CoreCompileInputs.cache
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.exe
+C:\Users\etsub\Desktop\New folder\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.pdb
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe.config
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.pdb
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.AssemblyReference.cache
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.SuggestedBindingRedirects.cache
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddItem.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddOrder.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddSupplier.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddVehicle.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.ChangePass.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.changeUserName.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddCustomer.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.CustOrder.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EditCust.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AdminLogin.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Manage.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Menu.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Register.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Report.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Sales.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.View.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EmployeeMenu.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Start.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Properties.Resources.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.UpDe.resources
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.GenerateResource.cache
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.CoreCompileInputs.cache
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.exe
+C:\ev\desktop\old cc 2\c#\C#\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.pdb
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe.config
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.exe
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\bin\Debug\Auto Spare Part managment.pdb
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.AssemblyReference.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddItem.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddOrder.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddSupplier.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddVehicle.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.ChangePass.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.changeUserName.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AddCustomer.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.CustOrder.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EditCust.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.AdminLogin.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Manage.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Menu.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Register.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Report.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Sales.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.View.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.EmployeeMenu.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Start.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.Properties.Resources.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto_Spare_Part_managment.UpDe.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.GenerateResource.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.csproj.CoreCompileInputs.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.exe
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Project\Auto Sparepart Store Management System\Auto Sparepart Store Management System\Auto Spare Part managment\obj\Debug\Auto Spare Part managment.pdb
